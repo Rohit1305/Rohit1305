@@ -1,3 +1,3 @@
-### Hi there 👋 THis is Rohit
+### Hi there 👋 This is Rohit.
 
 
