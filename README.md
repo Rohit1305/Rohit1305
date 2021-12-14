@@ -15,8 +15,8 @@
 
 #### I am Computer Engineering Student
 
-Ask me About
 
+Ask me About
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)
